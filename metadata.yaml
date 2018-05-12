@@ -1,0 +1,34 @@
+_repo: The-Confessions-of-a-Poacher_36970
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: West, James, active 19th century
+    gutenberg_agent_id: '38568'
+    url: http://www.gutenberg.org/2009/agents/38568
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, John, F.L.S.
+    deathdate: 1928
+    gutenberg_agent_id: '42785'
+    url: http://www.gutenberg.org/2009/agents/42785
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+gutenberg_issued: '2011-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poaching'
+- !lcc 'SK'
+- !lcsh 'Hunting'
+title: The Confessions of a Poacher
+url: http://www.gutenberg.org/ebooks/36970
